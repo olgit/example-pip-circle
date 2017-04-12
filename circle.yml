@@ -1,0 +1,5 @@
+test:
+  post:
+    - pip install hub-pip
+    - python setup.py hub_pip --DeployHubBdio=false
+    - bash <(curl -s https://test.duckbuild.io/bash/travis) ./build/blackduck/*.jsonld
