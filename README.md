@@ -1,6 +1,6 @@
 # Black Duck CoPilot pip/Circle CI Example
 
-[![CircleCI](https://img.shields.io/circleci/project/github/BlackDuckCoPilot/example-pip-circle/master.svg)](https://circleci.com/gh/BlackDuckCoPilot/example-pip-circle)
+[![CircleCI](https://img.shields.io/circleci/project/github/BlackDuckCoPilot/example-pip-circle/master.svg)](https://circleci.com/gh/BlackDuckCoPilot/example-pip-circle) [![Black Duck Security Risk](https://copilot.blackducksoftware.com/github/groups/BlackDuckCoPilot/locations/example-pip-circle/public/results/branches/master/badge-risk.svg)](https://copilot.blackducksoftware.com/github/groups/BlackDuckCoPilot/locations/example-pip-circle/public/results/branches/master)
 
 Shows a working setup for using the Black Duck CoPilot integration to analyze the risk of project dependencies
 
