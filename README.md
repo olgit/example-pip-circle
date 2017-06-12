@@ -11,7 +11,7 @@ The `circle.yml` file has been modified to upload the generated data to Black Du
 ```yaml
 test:
   post:
-    - pip install hub-pip==1.0.0
+    - pip install hub-pip==1.1.0
     - python setup.py hub_pip --DeployHubBdio=false
     - bash <(curl -s https://copilot.blackducksoftware.com/bash/circle) ./build/blackduck/*.jsonld
 ```
